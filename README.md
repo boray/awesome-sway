@@ -31,6 +31,7 @@
 - [Editor Plugins](#editor-plugins)
     - [Vim](#vim)
     - [Visual Studio Code](#visual-studio-code)
+    - [Emacs](#emacs)
 - [License](#license)
 
 ## Resources
@@ -101,6 +102,10 @@
 
 - [Sway VS Code](https://marketplace.visualstudio.com/items?itemName=FuelLabs.sway-vscode-plugin) -
   VS Code syntax support for Sway
+
+#### Emacs
+
+- [Emacs](https://github.com/hhamud/sway-mode) - Emacs plugin for Sway
 
 
 ---
