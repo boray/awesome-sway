@@ -81,6 +81,7 @@
 - [sway-rs](https://github.com/FuelLabs/fuels-rs)
 - [sway-ts](https://github.com/FuelLabs/fuels-ts)
 - [sway-js](https://github.com/FuelLabs/fuel-js)
+- [Swaymigo](https://github.com/BlockchainCap/swaymigo) - A library for common smart contract patterns in Sway on the FuelVM
 
 ## Tools
 
