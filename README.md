@@ -1,13 +1,13 @@
 <div align="center">
   <img alt="sway logo" src="./assets/fuel.png" width="200" >
-  <h1 align="center">Awesome Fuel</h1>
+  <h1 align="center">Awesome Sway</h1>
   <p align="center">
     <a href="https://github.com/sindresorhus/awesome">
       <img alt="awesome list badge" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
     </a>
   </p>
 
-  <p align="center">A curated list of awesome <a href="https://fuel.network/">Fuel</a> resources, libraries, tools and more.</p>
+  <p align="center">A curated list of awesome <a href="https://twitter.com/swaylang">Sway</a> resources, libraries, tools and more.</p>
 
 </div>
 
